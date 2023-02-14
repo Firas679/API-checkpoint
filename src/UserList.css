@@ -1,0 +1,17 @@
+.list{
+    text-align: center;
+    margin: 5px;
+}
+
+.user{
+    color: rgb(87, 0, 124);
+    background-color: #eedbff;
+    margin: 10px;
+    padding: 5px;
+}
+
+.userslist{
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(243, 0, 0);
+}
